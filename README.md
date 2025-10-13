@@ -6,6 +6,9 @@ cells.
 The model is parametric in the number of cells. I've included STEP files
 for 1-, 2-, and 4-cell versions.
 
+![](1.png)
+![](4.png)
+
 
 # Battery terminals
 
