@@ -1,10 +1,7 @@
-This is a FreeCAD model for printing 21700 battery holders.
+This is a FreeCAD model for printing battery holders for cylindrical cells
+(21700, 18650, AA, AAA, etc).
 
-It is parametric and should be easy to adapt to hold other cylindrical
-cells.
-
-The model is parametric in the number of cells. I've included STEP files
-for 1-, 2-, and 4-cell versions.
+The model is parametric in cell size and the number of cells.
 
 ![](1.png)
 ![](4.png)
